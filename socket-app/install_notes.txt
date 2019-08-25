@@ -1,0 +1,16 @@
+Follow the installation instructions below:
+
+1. md test_dir
+2. cd test_dir
+3. git clone https://github.com/krassimir-nedelchev/socket-example-fork-a8.git
+4. cd socket-example-fork-a8
+5. dir
+6. cd socket-server
+7. npm install --save
+8. node src/app.js
+9. cd ..
+6. cd socket-app
+7. npm install --save
+8. ng update
+9. ng serve
+
