@@ -1,4 +1,4 @@
-Follow the installation instructions below:
+< INSTALL NOTES >
 
 1. md test_dir
 2. cd test_dir
